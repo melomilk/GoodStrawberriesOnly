@@ -1,55 +1,34 @@
-# Collection Style Game Starter Code
-This is a place for you to start building your Collection Style Game Project!
+# Strawberry Catcher 🍓
 
-### Project Requirements
-Your project should:
-- Include a falling object sprite that falls from random positions during the game. 
-- Include a catcher sprite that moves left and right when the arrow keys are pressed. 
-- Detect collision when the falling object collides with the catcher.
-- Include a score variable.
-- Increase the score when the falling object collides with the catcher.
-- Optional:
-  - Include three images: one in the background, one for your catcher sprite, and one for your falling object sprite.
-  - Include citations for your images in your project’s README file. 
-
-### Optional Spice Level + Extensions
-You can extend your project further by:
-- Trying a Spice Level Challenge (See Part 5)
-- Adding another falling object (See HQ for details)
-- Adding a home screen (See HQ for details)
-- Adding another level (See HQ for details)
-
-###  Attributions
-*If you used any code, ideas, images, or resources from another person or group of people, tell us about it here. Make sure it is in the public domain, has a license that allows you to use it, or is one of your own.
-- Forest Image:
-https://stock.adobe.com/search/images?k=pixel+forest&asset_id=562564643
-- Catcher Image:
-https://pixabay.com/vectors/basket-shopping-wicker-basket-159430/
-- Falling Object Image:
-https://commons.wikimedia.org/wiki/File:Strawberry-icon-1000px.png
-
+## Overview
+Strawberry Catcher is a fun game where the goal is to help Elsa collect fresh strawberries while avoiding rotten ones. The game becomes more challenging as you progress through levels.
 
 ---
 
-## File Overview
+## Features
+- **Levels**: Progress through multiple levels with increasing difficulty.
+- **Score Tracking**: Earn points for catching strawberries and lose points for catching rotten ones.
+- **Win Condition**: Collect 30 strawberries to win the game.
+- **Game States**: Intro, Playing, Level-Up, Win, and Game Over screens.
 
-### ← script.js
+---
 
-This is where we will add the JavaScript code for our game.
+## How to Play
+1. **Goal**: Help Elsa collect strawberries and avoid rotten ones.
+2. **Controls**:
+   - **Left Arrow Key**: Move the catcher left.
+   - **Right Arrow Key**: Move the catcher right.
+3. Avoid catching rotten strawberries to maintain your score.
+4. Progress through the levels to reach the target score and win!
 
-### ← assets
+---
 
-Drag in assets, like images, to add them to your project. If you are adding an image, it is best to save it to your computer, then upload the file to the `assets` folder. The url of the image will be `assets/example.jpg` or `assets/example.png`.
+## Screenshots
+(*Add images or GIFs of your game in action.*)
 
-### ← index.html
+---
 
-The HTML file contains HTML code that sets up a webpage for our game. We also add libraries in this file using HTML tags.
-
-### ← README.md
-
-That's this file. This is the place to tell people more about what your game does and how you built it. 
-
-### ← style.css
-
-The CSS file adds styling rules to your content like changing colors and fonts. We will not use this file for our game and instead update the style of our game in the script.js file.  
-
+## Setup Instructions
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/yourusername/strawberry-catcher.git
