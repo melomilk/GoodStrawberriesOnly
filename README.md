@@ -21,3 +21,5 @@ Strawberry Catcher is a fun game where the goal is to help Elsa collect fresh st
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/strawberry-catcher.git
+   ## Play the Game!
+[Collect Strawberries](https://collectstrawberries-milana-p.replit.app/) – Click on the link
