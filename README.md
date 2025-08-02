@@ -1,4 +1,4 @@
-# Strawberry Catcher 🍓
+# Good Strawberries Only 🍓
 
 ## Overview
 Strawberry Catcher is a fun game where the goal is to help Elsa collect fresh strawberries while avoiding rotten ones. The game becomes more challenging as you progress through levels.
@@ -18,8 +18,4 @@ Strawberry Catcher is a fun game where the goal is to help Elsa collect fresh st
 4. Progress through the levels to reach the target score and win!
 
 ## Setup Instructions
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/strawberry-catcher.git
-   ## Play the Game!
 [Collect Strawberries](https://collectstrawberries-milana-p.replit.app/) – Click on the link
